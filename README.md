@@ -13,3 +13,5 @@ See live on [cemrekarakas.com/2007](https://cemrekarakas.com/2007/cemreefe.htm).
 | | |
 | - | - |
 |  ![](media/screenshot2.png) | ![](media/screenshot1.png) |
+
+Dedicated to my late friend Baran.
